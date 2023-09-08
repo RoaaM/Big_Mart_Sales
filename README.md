@@ -1,7 +1,7 @@
 # Dataset Description - Big Mart Sales
 This dataset, named "Big Mart Sales," offers a comprehensive insight into the retail world, particularly the sales records of a large supermarket chain. It encompasses various attributes to facilitate in-depth analysis and predictive modeling. Here's a breakdown of the dataset's key components:
 
-Item_Identifier: A unique identification code assigned to each product.
+Item_Identifier: A unique identification code is assigned to each product.
   
 Item_Weight: The weight of the respective product.
 
@@ -29,4 +29,4 @@ Item_Outlet_Sales: The sales figure for a particular product within a specific s
 This dataset provides a rich resource for exploring retail trends, conducting market analysis, and building predictive models to understand and improve sales performance within the Big Mart supermarket chain.
 
 ## In this notebook:
-I have conducted an extensive analysis of this dataset and have implemented several machine learning models to extract valuable insights and predictions based on the dataset's attributes. Additionally, I have developed a user-friendly dashboard to visualize and clarify the dataset, making it more comprehensible and accessible for further exploration and analysis
+I have conducted an extensive analysis of this dataset and have implemented several machine-learning models to extract valuable insights and predictions based on the dataset's attributes.
